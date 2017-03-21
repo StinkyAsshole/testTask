@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testTask</string>
+
+    <string name="user_list">Список пользователей</string>
+    <string name="repository_count">Репозиториев: %d</string>
+
+    <!--error-->
+    <string name="unknown_error">Произошла неожиданная ошибка. Приносим свои извенения. </string>
+
+    <string name="show_more">Показать еще</string>
+</resources>
